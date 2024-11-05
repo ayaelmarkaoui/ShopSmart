@@ -46,7 +46,7 @@ The wireframes and storyboards created in Figma provide a visual overview of the
 - **Python** and **Django** installed for the backend.
 
 ### Backend Setup (Django)
-Link Of the Github : https://github.com/ayaelmarkaoui/ShopSmart
+Link Of the Github : https://github.com/ayaelmarkaoui/ShopSmart/tree/main
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ayaelmarkaoui/ShopSmart.git
